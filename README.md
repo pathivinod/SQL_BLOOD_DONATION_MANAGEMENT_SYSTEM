@@ -2,7 +2,6 @@
 The Blood Donation Management System is a SQL-based mini project designed to manage and analyze blood donation data efficiently. This project focuses on using core SQL concepts up to JOINs to solve a real-world healthcare problem by organizing donor details, blood bank information, and donation records.
 The goal of this project is to demonstrate relational database design and JOIN-based data analysis while contributing to a socially useful cause.
 
-
 🎯 Objectives
 Design a normalized relational database
 Establish relationships using primary and foreign keys
